@@ -1,8 +1,7 @@
-# Lincukoo USB-Dongle Firmware upgrade Tool
+# Lincukoo Dongle_plus Firmware upgrade Tool
 
-**Firmware Repository**: [https://github.com/lincukoo/dongle/tree/main/firmware]
 
-**USB-Dongle Firmware upgrade Tool**: [https://lincukoo.github.io/zigbee-dongle/]
+**USB-Dongle Firmware upgrade Tool**: [https://lincukoo.github.io/dongle_plus/]
 
 A web-based firmware upgrade tool for Lincukoo USB-Dongle devices. This tool allows you to upgrade device firmware directly from your web browser using the Web Serial API.
 
